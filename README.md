@@ -42,12 +42,13 @@ Here's a quick rundown of the steps I took in the project:
 ## 4] 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 :
 * The average performance rate declined slightly from 2.57 in FY19 to 2.41 in FY20, with nearly identical scores between genders (Male: 2.58, Female: 2.56 in FY19; Male: 2.41, Female: 2.42 in FY20).
 * This represents a 6.2% overall decrease in performance, with both genders showing comparable year-over-year reductions of similar magnitude.
-## 5] 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 : This section illustrates the turnover rate, indicating how many employees left the company in FY20, segmented by gender and job level.
+## 5] 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 : 
+This section illustrates the turnover rate, indicating how many employees left the company in FY20, segmented by gender and job level.
 
 
 # 🔶Key Insights :
-𝐇𝐢𝐫𝐢𝐧𝐠: There is a higher percentage of female hires at the Junior Officer level, but as job levels increase, the percentage of female hires decreases significantly.
+- 𝐇𝐢𝐫𝐢𝐧𝐠: There is a higher percentage of female hires at the Junior Officer level, but as job levels increase, the percentage of female hires decreases significantly.
 
-𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧: More females are being promoted at the Junior Officer level, but the number decreases at higher levels, though the percentage line indicates a higher promotion rate for females in some mid-level positions.
+- 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧: More females are being promoted at the Junior Officer level, but the number decreases at higher levels, though the percentage line indicates a higher promotion rate for females in some mid-level positions.
 
-𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 : The turnover rate varies by job level and gender, with some levels showing higher turnover rates for females compared to males. This dashboard provides a comprehensive view of gender diversity across hiring, promotions, and turnover rates at PwC, highlighting areas where gender disparities exist.
+- 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 : The turnover rate varies by job level and gender, with some levels showing higher turnover rates for females compared to males. This dashboard provides a comprehensive view of gender diversity across hiring, promotions, and turnover rates at PwC, highlighting areas where gender disparities exist.
