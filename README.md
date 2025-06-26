@@ -25,9 +25,9 @@ Here's a quick rundown of the steps I took in the project:
 <br><br>
 ![Diversity and Inclusion snap](https://github.com/user-attachments/assets/ce0984e8-e8d4-44a0-be3d-3a920eb5a74f)
 <br><br>
-![Workforce flow snap](https://github.com/user-attachments/assets/5ce151d8-735d-4725-b5e7-705f0f9677f8)
+![Workforce flow snap](https://github.com/user-attachments/assets/827cdb4a-f2aa-4d6a-bcc2-67f2533467ad)
 <br><br>
-![Workforce Dempgraphics](https://github.com/user-attachments/assets/3f1a0ed7-d797-4a82-917d-e86f0bb45c2b)
+![Workforce demographics snap](https://github.com/user-attachments/assets/f70443ce-ea0b-4a69-a514-002ef4c44d4a)
 <br><br>
 # 🔶Insights
 ## 1] 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬 :
